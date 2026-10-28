@@ -26,7 +26,8 @@ After seeding, every account in `mock_data.json` has the password `MediCare@123`
 - Admin: `ravi.admin@example.com`
 - Doctor: `sunita.sharma@example.com` or `amit.patel@example.com`
 - Patient: `priya.singh@example.com`, `vikram.desai@example.com`, or `neha.gupta@example.com`
--Demo password: `MediCare@123`
+- Demo password: `MediCare@123`
+
 
 
 ## Important security design
