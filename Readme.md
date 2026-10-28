@@ -2,7 +2,7 @@
 
 A responsive hospital-management platform built for secure healthcare workflows. It supports patient booking, doctor workflows, and administrative visibility while keeping authorization and appointment rules enforced by the API.
 
-Live : 'https://medicarehub-uc2c.onrender.com/'
+Live : https://medicarehub-uc2c.onrender.com/
 
 ## Stack
 
